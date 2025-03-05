@@ -1,15 +1,26 @@
-Trilha HTML - Dio.me
-Módulo 01 - Primeiros passos com HTML
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então.
+# Trilha HTML - Dio.me
 
-Utilizar todas as tags explicadas nas aulas: <h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>
+## Módulo 01 - Primeiros passos com HTML
 
-Utilizar novas tags sugeridas: <font>, <del>, <p>, <abbr> (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+A ideia deste desafio é elaborar um website utilizando uma estrutura bem básica, aplicando as tags aprendidas durante as aulas práticas até então.
 
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
+### 📌 Requisitos do Desafio
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
+✅ Utilizar todas as tags explicadas nas aulas:  
+`<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`.  
 
-Após concluído este desafio! Siga para o Módulo II - Conceitos Básicos.
+✅ Utilizar novas tags sugeridas:  
+`<font>`, `<del>`, `<abbr>`.  
+*A ideia é pesquisar essas tags na internet, entender como funcionam e utilizá-las no texto.*
 
-Nos vemos lá!
+### 🎯 Objetivo
+
+Essas tags estarão presentes ao longo de todo o curso, então é fundamental compreendê-las bem para aproveitar ao máximo as próximas aulas.
+
+Este desafio pode gerar dúvidas, e isso é ótimo! Aos poucos, você evoluirá na sua jornada. 🚀  
+
+### ✅ Próximos Passos
+
+Após concluir este desafio, siga para o **Módulo II - Conceitos Básicos**.  
+
+Nos vemos lá! 👩‍💻👨‍💻
